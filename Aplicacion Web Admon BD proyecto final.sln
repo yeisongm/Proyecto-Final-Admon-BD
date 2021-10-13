@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion Web Admon BD proyecto final", "Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final.csproj", "{509729AF-C6BD-427B-8775-F06B3DFFEE03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{E291B054-F78C-4ACD-B786-A6061735596A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{509729AF-C6BD-427B-8775-F06B3DFFEE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509729AF-C6BD-427B-8775-F06B3DFFEE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509729AF-C6BD-427B-8775-F06B3DFFEE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509729AF-C6BD-427B-8775-F06B3DFFEE03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E291B054-F78C-4ACD-B786-A6061735596A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E291B054-F78C-4ACD-B786-A6061735596A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E291B054-F78C-4ACD-B786-A6061735596A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E291B054-F78C-4ACD-B786-A6061735596A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8CFC325-37DE-4203-B801-9A7BA2639BB0}
+	EndGlobalSection
+EndGlobal

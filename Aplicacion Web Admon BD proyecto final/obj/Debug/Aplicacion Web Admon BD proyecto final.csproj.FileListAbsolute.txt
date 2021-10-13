@@ -1,0 +1,64 @@
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Aplicacion Web Admon BD proyecto final.dll.config
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Aplicacion Web Admon BD proyecto final.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Aplicacion Web Admon BD proyecto final.pdb
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\csc.exe
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\csc.exe.config
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\csc.rsp
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\csi.exe
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\csi.exe.config
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\csi.rsp
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\System.Buffers.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\System.Memory.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\vbc.exe
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\vbc.exe.config
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\vbc.rsp
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\VBCSCompiler.exe
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Ext.Net.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Ext.Net.Utilities.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Newtonsoft.Json.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Persistencia.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Transformer.NET.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\WebActivatorEx.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\MySql.Data.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Persistencia.pdb
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Ext.Net.xml
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Ext.Net.Utilities.xml
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Newtonsoft.Json.xml
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Transformer.NET.xml
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\obj\Debug\Aplicacion Web Admon BD proyecto final.csprojAssemblyReference.cache
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\obj\Debug\Aplicacion Web Admon BD proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\obj\Debug\Aplicacion Web Admon BD proyecto final.csproj.CopyComplete
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\obj\Debug\Aplicacion Web Admon BD proyecto final.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\obj\Debug\Aplicacion Web Admon BD proyecto final.pdb
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Google.Protobuf.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Zstandard.Net.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\BouncyCastle.Crypto.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\Ubiety.Dns.Core.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\System.Memory.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\System.Buffers.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\K4os.Compression.LZ4.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\K4os.Hash.xxHash.dll
+C:\Users\M2\source\repos\Aplicacion Web Admon BD proyecto final\Aplicacion Web Admon BD proyecto final\bin\System.Numerics.Vectors.dll
